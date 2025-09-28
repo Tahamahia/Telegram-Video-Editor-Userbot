@@ -25,7 +25,7 @@ It receives videos via Telegram (private chat), lets you cut them, merge multipl
 ## 🚀 Usage
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Telegram-Video-Editor-Userbot.git
+   git clone https://github.com/Tahamahia/Telegram-Video-Editor-Userbot.git
    cd Telegram-Video-Editor-Userbot
    ```
 
@@ -87,7 +87,7 @@ It receives videos via Telegram (private chat), lets you cut them, merge multipl
 ## 🚀 طريقة التشغيل
 1. استنسخ المشروع:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Telegram-Video-Editor-Userbot.git
+   git clone https://github.com/Tahamahia/Telegram-Video-Editor-Userbot.git
    cd Telegram-Video-Editor-Userbot
    ```
 
